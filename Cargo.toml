@@ -7,7 +7,7 @@ authors = ["Your Name"]
 license = "MIT"
 repository = "https://github.com/yourusername/mdbook-custom-chaptering"
 homepage = "https://github.com/yourusername/mdbook-custom-chaptering"
-keywords = ["mdbook", "preprocessor", "calver", "custom-toc-number", "chapter number"]
+keywords = ["mdbook", "preprocessor", "calver", "custom-toc-number", "chapter-number"]
 categories = ["documentation", "text-processors"]
 
 [dependencies]
