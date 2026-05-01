@@ -1,6 +1,6 @@
 [package]
 name = "mdbook-custom-chaptering"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "An mdbook preprocessor for custom CalVer chapter numbering"
 authors = ["Your Name"]
