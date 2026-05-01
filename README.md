@@ -3,6 +3,10 @@
 An mdbook preprocessor plugin for custom chapter numbering.
 
 Eg: I created this for using it as a calver (Calendar versioning) based chapter numbering
+
+## Rationale: 
+I vibe-coded this because I needed a quick little solution. Use with caution
+
 ## Features
 
 - **Custom chapter numbers** using dot notation (e.g., `26.5`, `2026.5.1`)
