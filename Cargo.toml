@@ -2,10 +2,13 @@
 name = "mdbook-custom-chaptering"
 version = "0.1.0"
 edition = "2021"
-description = "An mdbook preprocessor for custom chapter numbering using CalVer"
+description = "An mdbook preprocessor for custom CalVer chapter numbering"
 authors = ["Your Name"]
 license = "MIT"
-repository = ""
+repository = "https://github.com/yourusername/mdbook-custom-chaptering"
+homepage = "https://github.com/yourusername/mdbook-custom-chaptering"
+keywords = ["mdbook", "preprocessor", "calver", "custom-toc-number", "chapter number"]
+categories = ["documentation", "text-processors"]
 
 [dependencies]
 mdbook-preprocessor = "0.5"
