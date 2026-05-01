@@ -1,0 +1,16 @@
+.pi
+
+# Rust / Cargo
+/target/
+Cargo.lock   # remove this line if it's a binary crate (keep lock for binaries, ignore for libs)
+
+# mdBook
+book/        # the generated book output directory
+
+# Editor & OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
