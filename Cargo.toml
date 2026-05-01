@@ -1,0 +1,25 @@
+[package]
+name = "mdbook-custom-chaptering"
+version = "0.1.0"
+edition = "2021"
+description = "An mdbook preprocessor for custom chapter numbering using CalVer"
+authors = ["Your Name"]
+license = "MIT"
+repository = ""
+
+[dependencies]
+mdbook-preprocessor = "0.5"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+regex = "1.10"
+anyhow = "1.0"
+clap = { version = "4.4", features = ["derive"] }
+once_cell = "1.10"
+
+[[bin]]
+name = "mdbook-custom-chaptering"
+path = "src/main.rs"
+
+[lib]
+name = "mdbook_custom_chaptering"
+path = "src/lib.rs"
