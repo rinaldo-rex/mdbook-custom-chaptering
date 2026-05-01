@@ -10,6 +10,3 @@ create-missing = false
 [preprocessor.custom-chaptering]
 # Enable or disable custom chapter numbering (default: true)
 enabled = true
-
-# Run only with HTML renderer
-renderers = ["html"]
